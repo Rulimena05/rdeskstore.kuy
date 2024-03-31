@@ -1,0 +1,131 @@
+{
+    "originals": [
+        {
+            "nama": "GAZELLE INDOOR SHOES",
+            "size": "UK 41",
+            "harga": "2.600.000",
+            "link": "https://www.adidas.co.id/gazelle-indoor-shoes-887467.html",
+            "foto": "https://dynamic.zacdn.com/PAJDeiK-YQQuojYr7Xl0IcHqbmM=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/adidas-5268-2018414-1.jpg"
+        },
+        {
+            "nama": "SEPATU SAMBA OG",
+            "size": "UK 40",
+            "harga": "2.200.000",
+            "link": "https://www.adidas.co.id/samba-og-shoes-859448.html",
+            "foto": "https://i1.adis.ws/i/jpl/jd_B75806_b?w=700&resmode=sharp&qlt=70&fmt=webp"
+        },
+        {
+            "nama": "SUPERSTAR SHOES",
+            "size": "UK 42",
+            "harga": "2.200.000",
+            "link": "https://www.adidas.co.id/superstar-shoes-843329.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/h/ih3120_2_footwear_photography_side20lateral20view_grey.jpg"
+        }
+    ],
+    "running": [
+        {
+            "nama": "SEPATU ADIZERO TAKUMI SEN 10",
+            "size": "UK 41",
+            "harga": "3.200.000",
+            "link": "https://www.adidas.co.id/adizero-takumi-sen-10-shoes-864140.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/g/ig8202_2_footwear_photography_side20lateral20view_grey.jpg"
+        },
+        {
+            "nama": "4DFWD 3 RUNNING SHOES",
+            "size": "UK 42",
+            "harga": "3.500.000",
+            "link": "https://www.adidas.co.id/4dfwd-3-running-shoes-no-image-740037.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/cache/ffbe5d912e2813a20bb27461a01c1e7c/i/g/ig8980_2_footwear_photography_side_lateral_view_grey.jpg"
+        },
+        {
+            "nama": "ULTRABOOST LIGHT SHOES",
+            "size": "UK 40",
+            "harga": "3.300.000",
+            "link": "https://www.adidas.co.id/ultraboost-light-shoes-841324.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/cache/3bec5fdb79d91223b1a151be2b21ce8d/i/d/id3282_2_footwear_photography_side20lateral20view_grey.jpg"
+        }
+    ],
+    "training": [
+        {
+            "nama": "SEPATU DROPSET 2",
+            "size": "UK 41",
+            "harga": "2.200.000",
+            "link": "https://www.adidas.co.id/dropset-2-trainer-774715.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/i/d/id4955_2_footwear_photography_side20lateral20view_grey.jpg"
+        },
+        {
+            "nama": "DROPSET 2.0 EARTH TRAINER SHOES",
+            "size": "UK 42",
+            "harga": "2.200.000",
+            "link": "https://www.adidas.co.id/dropset-2-0-earth-trainer-shoes-814611.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/i/g/ig3083_2_footwear_photography_side20lateral20view_grey.jpg"
+        },
+        {
+            "nama": "SEPATU DROPSET 2",
+            "size": "UK 40",
+            "harga": "2.200.000",
+            "link": "https://www.adidas.co.id/dropset-2-trainer-842215.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/i/e/ie5489_2_footwear_photography_side_lateral_view_grey.jpg"
+        }
+    ],
+    "essential": [
+        {
+            "nama": "SEPATU DURAMO SL",
+            "size": "UK 42",
+            "harga": "900.000",
+            "link": "https://www.adidas.co.id/sepatu-duramo-sl-365872.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/f/y/fy6683_sl_ecom.jpg"
+        },
+        {
+            "nama": "SEPATU VL COURT 2.0",
+            "size": "UK 41",
+            "harga": "900.000",
+            "link": "https://www.adidas.co.id/sepatu-vl-court-2-0-50370.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/D/A/DA9854_SL_eCom.jpg"
+        },
+        {
+            "nama": "SEPATU DAILY 3.0",
+            "size": "UK 39",
+            "harga": "950.000",
+            "link": "https://www.adidas.co.id/sepatu-daily-3-0-240719.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/F/W/FW7033_SL_eCom.jpg"
+        }
+    ],
+    "sepakbola": [
+        {
+            "nama": "PREDATOR 24 LEAGUE FIRM GROUND BOOTS",
+            "size": "UK 39",
+            "harga": "1.400.000",
+            "link": "https://www.adidas.co.id/predator-24-league-firm-ground-boots-884595.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/i/g/ig7773_1_footwear_photography_side20lateral20center20view_grey.jpg"
+        },
+        {
+            "nama": "PREDATOR 24 ELITE LOW FIRM GROUND BOOTS",
+            "size": "UK 42",
+            "harga": "3.800.000",
+            "link": "https://www.adidas.co.id/predator-24-elite-low-firm-ground-boots-883630.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/i/f/if5441_1_footwear_photography_side20lateral20center20view_grey.jpg"
+        },
+        {
+            "nama": "X CRAZYFAST ELITE FIRM GROUND BOOTS",
+            "size": "UK 40",
+            "harga": "3.700.000",
+            "link": "https://www.adidas.co.id/x-crazyfast-elite-firm-ground-boots-883821.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/i/g/ig0593_1_footwear_photography_side20lateral20center20view_grey.jpg"
+        },
+        {
+            "nama": "GERMANY 2024 HOME AUTHENTIC JERSEY",
+            "size": "XL",
+            "harga": "2.000.000",
+            "link": "https://www.adidas.co.id/germany-2024-home-authentic-jersey-888667.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/i/z/iz1620_2_apparel_photography_front20center20view_grey.jpg"
+        },
+        {
+            "nama": "ITALY 2024 HOME AUTHENTIC JERSEY",
+            "size": "XL",
+            "harga": "2.000.000",
+            "link": "https://www.adidas.co.id/italy-2024-home-authentic-jersey-850441.html",
+            "foto": "https://www.adidas.co.id/media/catalog/product/i/n/in0658_2_apparel_photography_front_center_view_grey.jpg"
+        }
+    ]
+}

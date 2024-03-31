@@ -1,0 +1,133 @@
+Bahan Website
+
+# Menu dan urutan navigasi:
+    Gambar Logo (logo sudah disertakan)	| images/logo/Logo2.png
+        Best Seller
+        Our Team
+        Review
+        Contact Us
+    Tombol Chat whatsapp ke: 6281290465035 (boleh diganti ke nomer kalian)
+
+# Header
+
+	Gambar kanan ada di: images/header/header1.png 
+    (ini bebas mau pakai gambar header 1,2,3,4,5, atau 6 mana saja)
+
+    <h1> Judul header:
+    Rdesk Online Store Kuy (ada icon shopping bag)  | images/icon/bag-dash-fill.svg
+
+    <p> header :
+    Rdesk Online Store Kuy menawarkan perlengkapan terbaru dan terbaik yang ditawarkan Rdesk dalam setiap
+    momen. Saat Anda. Produk Rdesk selalu mengutamakan keunggulan. Ciri khas kami adalah selalu
+    mempersembahkan produk dengan standar kualitas,
+    teknologi, dan inovasi terbaik.
+
+    # Revisi 01 Januari 2099
+        Karena pandemi, klien berencana menjual Barangnya dalam bentuk online store 
+        dan meminta untuk disertakan logo bukalapak, shopee, dan tokopedia
+
+        src pada <img> di dalam <div class="olshop"> isinya berikut:
+        images/logo/logo_bukalapak.png
+        images/logo/logo_shopee.png
+        images/logo/logo_tokopedia.png
+
+# Best Seller
+
+    Judul: 
+    Kategori Terbaik Rdesk
+    
+    <p> Best Seller:
+    DAPATKAN KOLEKSI SEPATU OLAHRAGA, SNEAKER & PERLENGKAPAN OLAHRAGA TERBARU DI RDESK INDONESIA
+
+    isi produk:
+
+    https://images.pexels.com/photos/1070360/pexels-photo-1070360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+    Originals
+
+    https://images.pexels.com/photos/2385477/pexels-photo-2385477.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+    Training
+
+    https://images.pexels.com/photos/1580267/pexels-photo-1580267.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+    Running
+
+    https://images.pexels.com/photos/684152/pexels-photo-684152.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+    Essential
+
+# About Us
+    Judul:
+    Gak Beli Gak Kuy!
+    
+    tentang-about-us:
+    	Selamat datang di situs resmi Rdesk di mana Anda dapat membeli perlengkapan dan aksesori olahraga 	berkualitas. 
+	Toko Online Resmi Rdesk menyediakan produk terbaik mulai dari sepatu olahraga, dan sneaker,
+	hingga aksesori olahraga lainnya untuk semua kebutuhan Anda. Tersedia berbagai macam sepatu yang cocok 	untuk setiap
+	momen dan nyaman dipakai saat berolahraga. Di Toko Online Resmi Rdesk, tersedia berbagai macam produk top 	seperti Sepatu Sepak Bola, Rdesk Originals, Sepatu Training, Atasan untuk Running, Sport Bra Wanita, 	Aksesori Olahraga dan masih banyak lagi. Toko Online Resmi Rdesk terus memperbarui daftar produknya 	sehingga Anda dapat koleksi sepatu, pakaian, aksesori olahraga terbaru kami. Temukan sepatu favorit Anda 	mulai dari sepatu untuk pria, wanita, dan anak-anak hanya di toko online resmi kami.
+
+    gambar:
+	https://www.adidas.co.id/media/scandiweb/slider/o/r/originals-ss24-t-toe-mh-d.gif
+    (images boleh apa saja di dalam folder images/about-us/)
+
+    penjelasan-about-us:
+    	Mencari perlengkapan olahraga yang dapat meningkatkan performa Anda dan lebih nyaman saat digunakan 	berolahraga? Hanya ada satu tempat yang dapat menyediakan semua kebutuhan olahraga Anda mulai dari sepatu 	hingga aksesori, yaitu Toko Online Resmi Rdesk. Rdesk Indonesia menyediakan perlengkapan olahraga mulai 	dari sepatu training, celana running, hingga aksesori olahraga untuk pria, wanita, dan anak-anak. Toko 	Online Resmi Rdesk Indonesia menawarkan banyak deal untuk Anda yang berbelanja secara online; mulai dari 	gratis ongkos kirim jika Anda berbelanja minimal Rp 900.000, easy return, fast response, dan masih banyak 	lagi. Beli segera sepatu untuk segala jenis olahraga hanya di Rdesk Store.
+
+# Our Product
+
+    judul-team: 
+    Our Product
+    
+    subjudul-team:
+    Kami selalu menyediakan produk sesuai segala kebutuhan anda, melengkapi segala situasi anda.
+
+    Isi div product:
+        NIKE - Special Edition		| https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?						  auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+        Loafer - Pria Lifestyle		| https://images.pexels.com/photos/267301/pexels-photo-267301.jpeg?						  auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+        Adidas Nmb - Pria Essential	| https://images.pexels.com/photos/7501135/pexels-photo-7501135.jpeg?						  auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+        Futsal - Sport Edition		| https://images.pexels.com/photos/20082772/pexels-photo-20082772/free-						  photo-of-mode-merah-musim-dingin-kaki.jpeg?auto=compress&cs=tinysrgb&w=					  1260&h=750&dpr=1
+
+# Review
+
+    judul-review:
+    Apa Kata Mereka
+
+    subjudul-review:
+    Kami berikan fakta dan data, karena kepuasan konsumen selalu nomor 1 untuk kami.
+
+    profile:
+    images/customer/customer1.jpg
+    Reygen Soplanit - Mahasiswa 
+        "Pertama dipakai langsung nyaman dari segi manapun, toko yang selalu menyediakan beragam sepatu sesuai 	dengan tren."
+    
+    images/customer/customer2.jpg
+    Anderson - Karyawan Swasta
+        Toko yang menyediakan jenis sepatu sesuai kebutuhan 🤗."
+    
+    images/customer/customer3.jpg
+    Ferdinand - Dosen
+        "Tempatnya nyaman, seluruh crew bekerja dengan baik, sopan dalam melayani customer, segala bentuk pesanan 	dikerjakan dengan teliti dan baik, pokoknya senang sekali berbelanja disini!"
+
+
+# Contact Us
+
+    Revisi 02 Januari 2099
+    Sementara, cabang lain akan ditutup selama pandemi, dan untuk lokasi maps, tampilkan 
+    toko utama saja yang di Jakarta
+
+    copy kode untuk iframe:
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d7932.741866032694!2d106.668581!3d-6.214715!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f9912c7f297b%3A0xe5a3a671dae861ab!2sKopi%20kuy!5e0!3m2!1sid!2sid!4v1680617229460!5m2!1sid!2sid"
+    allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+    Telp: +62 (812) 3351 700		| images/icon/icon_phone.png
+    Email: hello@rdeskstorekuy.com	| images/icon/icon_mail.png
+    Instagram: @Rdeskstore.kuy		| images/icon/icon_instagram.png
+
+# Footer berisi:
+
+    Navigasi a dengan href #:
+    Best Seller
+    Our Team
+    Review
+    Contact Us
+
+    p:
+    Copyright Rdesk Store kuy: © 2023 Rdesk Store Kuy. All Rights Reserved
+    
